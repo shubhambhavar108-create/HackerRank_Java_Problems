@@ -1,2 +1,12 @@
-# HackerRank_Java_Problems
-Solved and documented HackerRank Java challenges to strengthen problem-solving skills, algorithmic thinking, and proficiency in Java programming. Includes solutions across domains such as Data Structures, Algorithms, OOP, Collections Framework, and Exception Handling.
+# 🏆 HackerRank Java Solutions
+
+This repository contains my HackerRank solutions written in Java.
+
+It showcases my journey in learning Data Structures, Algorithms, and Problem Solving through consistent coding practice.
+
+## 🛠️ Tech Stack
+- Java ☕
+- HackerRank
+
+## 🎯 Goal
+Enhance problem-solving skills and prepare for coding interviews.
